@@ -1,0 +1,4 @@
+__pycache__/*
+venv/*
+videos/*
+yolov5x.pt
